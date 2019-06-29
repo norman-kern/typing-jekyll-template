@@ -87,6 +87,7 @@ $ cd "my-site"
 
 ```
 $ bundle install
+$ apt-get install nodejs
 ```
 
 3 - Compiling project for deploy:
